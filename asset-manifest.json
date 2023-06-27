@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Redux-Shopping-Website/static/css/main.948a152a.css",
+    "main.js": "/React-Redux-Shopping-Website/static/js/main.d026f133.js",
+    "index.html": "/React-Redux-Shopping-Website/index.html",
+    "main.948a152a.css.map": "/React-Redux-Shopping-Website/static/css/main.948a152a.css.map",
+    "main.d026f133.js.map": "/React-Redux-Shopping-Website/static/js/main.d026f133.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.948a152a.css",
+    "static/js/main.d026f133.js"
+  ]
+}
