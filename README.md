@@ -44,3 +44,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2023 [Rakshit](https://github.com/Rakshit4045).<br />
+This project is [MIT](https://github.com/Rakshit4045/React-Redux-Shopping-Website/blob/main/LICENSE) licensed.
