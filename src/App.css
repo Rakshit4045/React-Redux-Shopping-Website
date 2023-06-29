@@ -393,4 +393,11 @@ a{
     width: 80%;
     margin: 1rem auto;
   }
+  .up-btn{
+    left: 86%;
+    bottom: 2%;
+  }
+  .item-wrapper{
+    margin: 1rem auto;
+  }
 }
