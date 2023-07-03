@@ -1,4 +1,4 @@
-# React-Redux-Shopping-Websit
+# React-Redux-Shopping-Website
 
 > This is a React-Redux based E-commerse site.
 > This project uses api from FakeApiStore to fetch data.
@@ -24,14 +24,9 @@ npm start
 * Github: [@rakshit-shinde](https://github.com/Rakshit4045)
 * LinkedIn: [@rakshit-shinde](https://www.linkedin.com/in/rakshit-shinde-4744961a4/)
   
-### Home Page Screenshot
-![Home Page](public/HomePage.png)
-### Search Section Screenshot
-![Search](public/Search.png)
-### Product Page Screenshot
-![Product Page](public/Product.png)
-### Cart Page Screenshot
-![Cart Page](public/CartPage.png)
+### Project Demo
+![Project Demo](public/project-demo-gif.gif)
+
 
 ## 🤝 Contributing
 
